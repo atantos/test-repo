@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/test-repo",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

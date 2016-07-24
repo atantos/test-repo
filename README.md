@@ -1,4 +1,8 @@
-## test-repo
+---
+output: html_document
+---
+
+test-repo
 =========
 
 ### This is my first test repo

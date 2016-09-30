@@ -25,4 +25,4 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-New branch file Note that the `echo = FALSE` parameter was also added to the code chunk to prevent printing of the R code that generated the plot.
+Note that the `echo = FALSE` parameter was also added to the code chunk to prevent printing of the R code that generated the plot.
